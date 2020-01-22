@@ -29,4 +29,4 @@ yarn start
 ```
 
 Provavelmente, irá aparecer uma notificação para alterar a porta do React para diferente de 3000 ou algo do tipo. Ambos precisam rodar em portas diferentes.<br><br>
-<strong>Happy Hacking</strong>
+<strong>Bons Estudos</strong>
